@@ -1,0 +1,4 @@
+node
+hoge
+ba-ka
+a-ho
